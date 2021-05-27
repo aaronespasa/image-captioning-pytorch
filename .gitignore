@@ -1,0 +1,9 @@
+# Heavy files
+PythonAPI.zip
+annotations.zip
+
+# Python cache
+__pycache__
+
+# MacOS
+.DS_Store
